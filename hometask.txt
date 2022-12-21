@@ -1,0 +1,13 @@
+1) Изменения, которые есть в demo, но нет в master:
+    подмержена ветка "buttons"
+    подмержена ветка "boots"
+
+2) Изменения, которые есть в master, но нет в demo:
+    подмержена ветка "origin/hat"
+    подмержена ветка "origin/buttons"
+    подмержена ветка "origin/boots"
+    есть коммит "fix readme"
+
+вижу 2 коммита:
+    1) "heat added"
+    2)"Merge remote-tracking branch 'origin/hat'"
